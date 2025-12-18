@@ -1,0 +1,16 @@
+{
+  "countries": {
+    "Italy": "Italia",
+    "United States": "Stati Uniti",
+    "Spain": "Spagna",
+    "Germany": "Germania",
+    "France": "Francia"
+  },
+  "states": {
+    "California": "California",
+    "New York": "Nuova York",
+    "Texas": "Texas",
+    "Lazio": "Lazio",
+    "Bavaria": "Baviera"
+  }
+}
